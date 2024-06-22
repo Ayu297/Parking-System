@@ -1,0 +1,14 @@
+/home/enigma/IdeaProjects/Parking_System/bin/Debug/net8.0/Parking_System
+/home/enigma/IdeaProjects/Parking_System/bin/Debug/net8.0/Parking_System.deps.json
+/home/enigma/IdeaProjects/Parking_System/bin/Debug/net8.0/Parking_System.runtimeconfig.json
+/home/enigma/IdeaProjects/Parking_System/bin/Debug/net8.0/Parking_System.dll
+/home/enigma/IdeaProjects/Parking_System/bin/Debug/net8.0/Parking_System.pdb
+/home/enigma/IdeaProjects/Parking_System/obj/Debug/net8.0/Parking_System.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/IdeaProjects/Parking_System/obj/Debug/net8.0/Parking_System.AssemblyInfoInputs.cache
+/home/enigma/IdeaProjects/Parking_System/obj/Debug/net8.0/Parking_System.AssemblyInfo.cs
+/home/enigma/IdeaProjects/Parking_System/obj/Debug/net8.0/Parking_System.csproj.CoreCompileInputs.cache
+/home/enigma/IdeaProjects/Parking_System/obj/Debug/net8.0/Parking_System.dll
+/home/enigma/IdeaProjects/Parking_System/obj/Debug/net8.0/refint/Parking_System.dll
+/home/enigma/IdeaProjects/Parking_System/obj/Debug/net8.0/Parking_System.pdb
+/home/enigma/IdeaProjects/Parking_System/obj/Debug/net8.0/Parking_System.genruntimeconfig.cache
+/home/enigma/IdeaProjects/Parking_System/obj/Debug/net8.0/ref/Parking_System.dll

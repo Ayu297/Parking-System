@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "raf2GfTRkU9kRfFzEW2NhSznLSIlpwI/NVYkJOqPiDCUJw3D+i5kzY8PmnJNyhHK2JgR40AAmbLB2FSZg3FzyQ==",
+  "success": true,
+  "projectFilePath": "/home/enigma/IdeaProjects/Parking_System/Parking_System.csproj",
+  "expectedPackageFiles": [
+    "/home/enigma/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/home/enigma/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/home/enigma/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.31/microsoft.netcore.app.host.linux-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
